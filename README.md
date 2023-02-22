@@ -1,10 +1,9 @@
 ### Hi there 👋 Here are my most frequently used languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timurgain&layout=compact)](https://github.com/timurgain/timurgain) I can do now:
-one
-two
-tree
-
+| I can do now  | Here are my most frequently used languages |
+| ------------- | ------------- |
+| - one | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timurgain&layout=compact)](https://github.com/timurgain/timurgain) |
+| - two |
 <!--
 **timurgain/timurgain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
