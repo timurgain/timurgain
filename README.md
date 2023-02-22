@@ -2,7 +2,7 @@
 
 | My stack | Here are my most frequently used languages |
 | ------------- | ------------- |
-| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white), ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timurgain&layout=compact)](https://github.com/timurgain/timurgain) |
+| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timurgain&layout=compact)](https://github.com/timurgain/timurgain) |
 <!--
 **timurgain/timurgain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
